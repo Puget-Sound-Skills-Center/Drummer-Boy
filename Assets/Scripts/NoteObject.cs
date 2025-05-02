@@ -20,7 +20,9 @@ public class NoteObject : MonoBehaviour
         {
             if (canBePressed)
             {
-                gameObject.SetActive(false);
+                Debug.Log("Note Destroyed");
+
+                Destroy(gameObject);
 
                 GameManager.instance.NoteHit();
             }
@@ -40,7 +42,7 @@ public class NoteObject : MonoBehaviour
         {
             canBePressed = false;
 
-            GameManager.instance.NoteMissed();
+         //   GameManager.instance.NoteMissed();
         }
     }
 }

@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour {
 
     public void NoteHit()
     {
-        Debug.Log("Hit On Time");
+        
 
         if (currentMultiplier - 1 < multiplierThresholds.Length)
         {
@@ -60,18 +60,18 @@ public class GameManager : MonoBehaviour {
             }
         }
 
-        multiText.text = "Multiplier: X" + currentMultiplier;
+        multiText.text = "Multiplier: x" + currentMultiplier;
 
         currentScore += scorePerNote * currentMultiplier;
         scoreText.text = "Score: " + currentScore;
     }
     public void NoteMissed()
     {
-        Debug.Log("Missed Note");
+            Debug.Log("Missed Note");
 
-       // currentMultiplier = 1;
-       // multiplierTracker = 0;
+            currentMultiplier = 1;
+            multiplierTracker = 0;
 
-      //  multiText.text = "Multiplier: X" + currentMultiplier;
+            multiText.text = "Multiplier: x" + currentMultiplier;
     }
 }
