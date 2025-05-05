@@ -1,4 +1,6 @@
+using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEngine.InputSystem.UI;
 
 public class AudioManager : MonoBehaviour
 {
@@ -8,7 +10,11 @@ public class AudioManager : MonoBehaviour
 
     [Header("---------- Aduio Clip ---------")]
     public AudioClip mainMenu_Music;
+    public AudioClip Tutorial_Music;
+    public AudioClip Tutorial_Extended;
     public AudioClip button_click;
+
+    
 
     private void Start()
     {
@@ -16,8 +22,18 @@ public class AudioManager : MonoBehaviour
         musicSource.Play();
     }
 
+    private void Update()
+    {
+       
+    }
+
     public void PlaySFX(AudioClip clip)
     {
         SFXSource.PlayOneShot(clip);
+    }
+
+    private void Awake()
+    {
+           
     }
 }

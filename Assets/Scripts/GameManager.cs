@@ -20,6 +20,14 @@ public class GameManager : MonoBehaviour {
     public int multiplierTracker;
     public int[] multiplierThresholds;
 
+
+    AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
