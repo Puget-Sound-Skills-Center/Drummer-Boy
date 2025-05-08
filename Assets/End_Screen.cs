@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class End_Screen : MonoBehaviour
 {
@@ -12,5 +13,14 @@ public class End_Screen : MonoBehaviour
     void Update()
     {
         
+    }
+    public void Home()
+    {
+        SceneManager.LoadScene("Main Menu");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }
