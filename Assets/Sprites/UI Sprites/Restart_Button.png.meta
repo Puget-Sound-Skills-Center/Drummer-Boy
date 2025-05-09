@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3de72cc1863dc4e43ae7a9513e4918a0
+guid: d71712e0de161214a975dd4f72cf0330
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4564112834000386323
-    second: Polish_20250122_132019957_0
+      213: -4488558486788426923
+    second: Restart_Button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Polish_20250122_132019957_0
+      name: Restart_Button_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 933
-        height: 818
+        width: 683
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 319f469d07cf65f30800000000000000
-      internalID: 4564112834000386323
+      spriteID: 553396176df65b1c0800000000000000
+      internalID: -4488558486788426923
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Polish_20250122_132019957_0: 4564112834000386323
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
