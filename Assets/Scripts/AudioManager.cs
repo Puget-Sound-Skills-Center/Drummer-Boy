@@ -15,7 +15,20 @@ public class AudioManager : MonoBehaviour
     public AudioClip Tutorial_Extended;
     public AudioClip button_click;
 
-    
+   // private static Audio audioInstance;
+    void Awake()
+    {
+       // DontDestroyOnLoad(this);
+
+       // if (audioInstance == null)
+       // {
+       //     audioInstance = this;
+       // }
+      //  else
+      //  {
+      //      Object.Destroy(gameObject);
+      //  }
+    }
 
     private void Start()
     {
@@ -58,8 +71,5 @@ public class AudioManager : MonoBehaviour
         SFXSource.PlayOneShot(clip);
     }
 
-    private void Awake()
-    {
-           
-    }
+ 
 }
