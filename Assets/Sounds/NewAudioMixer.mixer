@@ -14,6 +14,28 @@ AudioMixerEffectController:
   m_SendTarget: {fileID: -1075079818318360883}
   m_EnableWetMix: 0
   m_Bypass: 0
+--- !u!244 &-2813470100209200314
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 7b952d0daf080c042a2076452654629c
+  m_EffectName: Pitch Shifter
+  m_MixLevel: 4df565dad86455841a93455d30a058cc
+  m_Parameters:
+  - m_ParameterName: Pitch
+    m_GUID: 10d36534bef1f5a45a3918aa511a25db
+  - m_ParameterName: FFT size
+    m_GUID: 71990f63637b7a84daf6135248c8ec9f
+  - m_ParameterName: Overlap
+    m_GUID: 7253717efbfc6d0429a2ec858d9d4e5a
+  - m_ParameterName: Max channels
+    m_GUID: 383448dcaad42d94bbe67c96c91d2c62
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
 --- !u!244 &-1075079818318360883
 AudioMixerEffectController:
   m_ObjectHideFlags: 3
@@ -60,6 +82,8 @@ AudioMixerController:
   m_ExposedParameters:
   - guid: 1d0c03021faebad4dac81a1fdba9603d
     name: music
+  - guid: 10d36534bef1f5a45a3918aa511a25db
+    name: MyExposedParam
   - guid: 6fdd3815d2255b240ad02ef4fec297a6
     name: SFX
   m_AudioMixerGroupViews:
@@ -183,6 +207,7 @@ AudioMixerGroupController:
   m_Effects:
   - {fileID: 4962527947951138850}
   - {fileID: -1075079818318360883}
+  - {fileID: -2813470100209200314}
   m_UserColorIndex: 0
   m_Mute: 0
   m_Solo: 0

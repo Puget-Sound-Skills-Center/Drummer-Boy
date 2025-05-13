@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour {
 
     public Text scoreText;
     public Text multiText;
+  //  public Text tultorialText;
 
     public int currentMultiplier;
     public int multiplierTracker;
@@ -30,8 +31,8 @@ public class GameManager : MonoBehaviour {
     public float goodHits;
     public float perfectHits;
     public float missedHits;
- 
 
+   // public GameObject tutText;
     public GameObject resultsScreen;
     public Text percentHitText, normalsText, goodsText, perfectsText, missesText, rankText, finalScoreText;
 
@@ -62,6 +63,7 @@ public class GameManager : MonoBehaviour {
             {
                 startPlaying = true;
                 theBS.hasStarted = true;
+                
 
                 theMusic.Play();
             }
