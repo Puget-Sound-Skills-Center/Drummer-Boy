@@ -15,35 +15,24 @@ public class AudioManager : MonoBehaviour
     public AudioClip Tutorial_Extended;
     public AudioClip button_click;
 
-   // private static Audio audioInstance;
+    private static AudioManager audioInstance;
     void Awake()
     {
-       // DontDestroyOnLoad(this);
+        DontDestroyOnLoad(this);
 
-       // if (audioInstance == null)
-       // {
-       //     audioInstance = this;
-       // }
-      //  else
-      //  {
-      //      Object.Destroy(gameObject);
-      //  }
+        if (audioInstance == null)
+        {
+            audioInstance = this;
+        }
+        else
+        {
+            Object.Destroy(gameObject);
+        }
     }
 
     private void Start()
     {
         Scene currentScene = SceneManager.GetActiveScene();
-
-        string sceneName = currentScene.name;
-
-        if ( sceneName == "MainMenu")
-            {
-            musicSource.clip = mainMenu_Music;
-            }
-        else if (sceneName == "MainMenu")
-        {
-            musicSource.clip = Win_Effect;
-        }
 
         // Retrieve the index of the scene in the project's build settings.
         int buildIndex = currentScene.buildIndex;
@@ -52,9 +41,11 @@ public class AudioManager : MonoBehaviour
         switch (buildIndex)
         {
             case 0:
+                musicSource.Stop();
                 musicSource.clip = mainMenu_Music;
                 break;
             case 2:
+                musicSource.Stop();
                 musicSource.clip = Win_Effect;
                 break;
         }
