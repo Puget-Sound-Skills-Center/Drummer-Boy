@@ -32,6 +32,7 @@ public class AudioManager : MonoBehaviour
 
     private void Start()
     {
+
         Scene currentScene = SceneManager.GetActiveScene();
 
         // Retrieve the index of the scene in the project's build settings.
@@ -43,18 +44,19 @@ public class AudioManager : MonoBehaviour
             case 0:
                 musicSource.Stop();
                 musicSource.clip = mainMenu_Music;
+                musicSource.Play();
                 break;
             case 2:
                 musicSource.Stop();
                 musicSource.clip = Win_Effect;
+                musicSource.Play();
                 break;
         }
-        musicSource.Play();
     }
 
     private void Update()
     {
-       
+
     }
 
     public void PlaySFX(AudioClip clip)
