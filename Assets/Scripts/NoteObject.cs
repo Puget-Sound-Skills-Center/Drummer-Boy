@@ -7,7 +7,7 @@ public class NoteObject : MonoBehaviour
 
     public KeyCode KeyToPress;
 
-    public GameObject hitEffect, goodEffect, perfectEffect, missEffect;
+    public GameObject hitEffect, goodEffect, perfectEffect, missEffect, noteHolder;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -66,6 +66,7 @@ public class NoteObject : MonoBehaviour
 
                 GameManager.instance.NoteMissed();
                 Instantiate(missEffect, transform.position, missEffect.transform.rotation);
+                
             }
         }
     }

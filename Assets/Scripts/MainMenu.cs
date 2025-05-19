@@ -16,8 +16,6 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
-       
-
         SceneManager.LoadSceneAsync("Gameplay 1");
     }
 

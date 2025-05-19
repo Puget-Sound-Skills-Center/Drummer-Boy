@@ -1,13 +1,27 @@
 using System.Net.Http.Headers;
 using UnityEngine;
 using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-public class GameManager : MonoBehaviour { 
+public class GameManager : MonoBehaviour {
+
+    [Header("---------- Aduio Source ---------")]
+    [SerializeField] AudioSource musicSource;
+    [SerializeField] AudioSource SFXSource;
+
+    [Header("---------- Aduio Clip ---------")]
+    public AudioClip mainMenu_Music;
+    public AudioClip Tutorial_Music;
+    public AudioClip Win_Effect;
+    public AudioClip Tutorial_Extended;
+    public AudioClip button_click;
+
+    private static AudioManager audioInstance;
 
     public AudioSource theMusic;
 
     public bool startPlaying;
-
+    
     public BeatScroller theBS;
 
     public static GameManager instance;
@@ -41,6 +55,7 @@ public class GameManager : MonoBehaviour {
     private void Awake()
     {
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+       
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -63,54 +78,61 @@ public class GameManager : MonoBehaviour {
             {
                 startPlaying = true;
                 theBS.hasStarted = true;
-                
 
+              //  musicSource.Play();
                 theMusic.Play();
             }
         }
         else
         {
-            if(!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
-            {
-                resultsScreen.SetActive(true);
-
-                normalsText.text = "" + normalHits;
-                goodsText.text = goodHits.ToString();
-                perfectsText.text = perfectHits.ToString(); ;
-                missesText.text = missedHits.ToString(); ;
-
-                float totalHit = normalHits + goodHits + perfectHits;
-                float percentHit = (totalHit / totalNotes) * 100f;
-
-                percentHitText.text = percentHit.ToString("F1") + "%";
-
-                string rankVal = "F";
-
-                if (percentHit > 40)
+          //  if (tag == "Activator")
+           // { 
+                if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
                 {
-                    rankVal = "D";
-                    if(percentHit > 55)
+
+
+                    //  SceneManager.LoadSceneAsync("Win Screen");
+                    resultsScreen.SetActive(true);
+
+
+                    normalsText.text = "" + normalHits;
+                    goodsText.text = goodHits.ToString();
+                    perfectsText.text = perfectHits.ToString(); ;
+                    missesText.text = missedHits.ToString(); ;
+
+                    float totalHit = normalHits + goodHits + perfectHits;
+                    float percentHit = (totalHit / totalNotes) * 100f;
+
+                    percentHitText.text = percentHit.ToString("F1") + "%";
+
+                    string rankVal = "F";
+
+                    if (percentHit > 40)
                     {
-                        rankVal = "C";
-                        if(percentHit> 70)
+                        rankVal = "D";
+                        if (percentHit > 55)
                         {
-                            rankVal = "B";
-                            if(percentHit > 85)
+                            rankVal = "C";
+                            if (percentHit > 70)
                             {
-                                rankVal = "A";
-                                if (percentHit > 95)
+                                rankVal = "B";
+                                if (percentHit > 85)
                                 {
-                                    rankVal = "S";
+                                    rankVal = "A";
+                                    if (percentHit > 95)
+                                    {
+                                        rankVal = "S";
+                                    }
                                 }
                             }
                         }
                     }
-                }
-                rankText.text = rankVal;
+                    rankText.text = rankVal;
 
-                finalScoreText.text = currentScore.ToString();
-            }
-        }
+                    finalScoreText.text = currentScore.ToString();
+                }
+         // }
+        }  
     }
 
 
