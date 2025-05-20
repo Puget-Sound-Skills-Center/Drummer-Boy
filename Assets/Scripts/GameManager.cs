@@ -45,6 +45,7 @@ public class GameManager : MonoBehaviour {
     public float goodHits;
     public float perfectHits;
     public float missedHits;
+    
 
    // public GameObject tutText;
     public GameObject resultsScreen;
@@ -85,10 +86,9 @@ public class GameManager : MonoBehaviour {
         }
         else
         {
-          //  if (tag == "Activator")
-           // { 
-                if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
-                {
+         
+            if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
+            {
 
 
                     //  SceneManager.LoadSceneAsync("Win Screen");
@@ -106,32 +106,38 @@ public class GameManager : MonoBehaviour {
                     percentHitText.text = percentHit.ToString("F1") + "%";
 
                     string rankVal = "F";
+                    rankText.color = Color.red;
 
-                    if (percentHit > 40)
+                if (currentScore >= 25000)
                     {
                         rankVal = "D";
-                        if (percentHit > 55)
+                        rankText.color = Color.blue;
+                      if (currentScore >= 35000)
+                      {
+                        rankVal = "C";
+                        rankText.color = Color.yellow;
+                        if (currentScore >= 45000)
                         {
-                            rankVal = "C";
-                            if (percentHit > 70)
+                            rankVal = "B";
+                            rankText.color = Color.cyan;
+                            if (currentScore >= 60000)
                             {
-                                rankVal = "B";
-                                if (percentHit > 85)
+                                rankVal = "A";
+                                rankText.color = Color.green;
+                                if (currentScore >= 70000)
                                 {
-                                    rankVal = "A";
-                                    if (percentHit > 95)
-                                    {
-                                        rankVal = "S";
-                                    }
+                                    rankVal = "S";
+                                    rankText.color = Color.magenta;
                                 }
                             }
                         }
-                    }
-                    rankText.text = rankVal;
+                      }
+                 }
+                 rankText.text = rankVal;
 
-                    finalScoreText.text = currentScore.ToString();
-                }
-         // }
+                 finalScoreText.text = currentScore.ToString();
+            }
+         
         }  
     }
 

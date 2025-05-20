@@ -49,8 +49,11 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1;
     }
 
-    public void Update()
+    void Update()
     {
-      
+        if (Input.GetKeyUp("space"))
+        {
+            Home();
+        }
     }
 }
