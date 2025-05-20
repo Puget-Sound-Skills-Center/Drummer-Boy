@@ -30,8 +30,16 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    private void Start()
+    void OnEnable()
     {
+        Debug.Log("OnEnable called");
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        Debug.Log("OnSceneLoaded: " + scene.name);
+        Debug.Log(mode);
 
         Scene currentScene = SceneManager.GetActiveScene();
 
@@ -46,12 +54,20 @@ public class AudioManager : MonoBehaviour
                 musicSource.clip = mainMenu_Music;
                 musicSource.Play();
                 break;
-            case 2:
+            case 1:
+                musicSource.Stop();
+                break;
+            case 3:
                 musicSource.Stop();
                 musicSource.clip = Win_Effect;
                 musicSource.Play();
                 break;
         }
+    }
+
+    private void Start()
+    {
+
     }
 
     private void Update()
@@ -64,5 +80,15 @@ public class AudioManager : MonoBehaviour
         SFXSource.PlayOneShot(clip);
     }
 
- 
+    public void StopMusic()
+    {
+        musicSource.Stop();
+    }
+
+    void OnDisable()
+    {
+        Debug.Log("OnDisable");
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
 }
