@@ -14,6 +14,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip Win_Effect;
     public AudioClip Tutorial_Extended;
     public AudioClip button_click;
+    public AudioClip miss_note_sfx;
 
     private static AudioManager audioInstance;
     void Awake()
@@ -78,6 +79,11 @@ public class AudioManager : MonoBehaviour
     public void PlaySFX(AudioClip clip)
     {
         SFXSource.PlayOneShot(clip);
+    }
+
+    public void MissSFX(AudioClip clip)
+    {
+        SFXSource.PlayOneShot(miss_note_sfx);
     }
 
     public void StopMusic()

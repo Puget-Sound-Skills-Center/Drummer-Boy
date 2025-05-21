@@ -18,6 +18,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("Gameplay 1");
     }
+    public void PlayGame2()
+    {
+        SceneManager.LoadSceneAsync("Gameplay 2");
+    }
 
     public void QuitGame()
     {

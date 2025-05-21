@@ -987,14 +987,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1878759748940627056, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1878759748940627056, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Color.g
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1878759748940627056, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878759748940627056, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
+      propertyPath: m_FontData.m_FontStyle
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3777715646691163782, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
@@ -1083,19 +1087,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5268828022465160575, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5268828022465160575, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Color.g
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5268828022465160575, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Color.r
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5268828022465160575, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_FontData.m_FontStyle
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8928186818028407262, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Name
@@ -1539,7 +1543,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4564112834000386323, guid: 3de72cc1863dc4e43ae7a9513e4918a0, type: 3}
+  m_Sprite: {fileID: 9218559325689081345, guid: 436425556f56c434883c8bacd59dc906, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
