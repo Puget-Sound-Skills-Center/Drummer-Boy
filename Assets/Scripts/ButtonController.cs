@@ -7,6 +7,7 @@ public class ButtonController : MonoBehaviour
     public Sprite pressedImage;
 
     public KeyCode KeyToPress;
+    public KeyCode SecondaryKeyToPress;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,14 +18,18 @@ public class ButtonController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyToPress))
+        if (Input.GetKeyDown(KeyToPress) || Input.GetKeyDown(SecondaryKeyToPress))
         {
             theSR.sprite = pressedImage;
-        }
+        } 
 
-        if (Input.GetKeyUp(KeyToPress))
+        
+
+        if (Input.GetKeyUp(KeyToPress) || Input.GetKeyDown(SecondaryKeyToPress))
         {
             theSR.sprite = defaultImage;
-        }
+        } 
+
+      
     }
 }

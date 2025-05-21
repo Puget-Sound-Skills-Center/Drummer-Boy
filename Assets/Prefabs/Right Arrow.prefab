@@ -86,7 +86,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &4473096498567703854
@@ -102,7 +102,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canBePressed: 0
-  KeyToPress: 275
+  KeyToPress: 107
+  SecondaryKeyToPress: 275
+  hitEffect: {fileID: 0}
+  goodEffect: {fileID: 0}
+  perfectEffect: {fileID: 0}
+  missEffect: {fileID: 0}
+  noteHolder: {fileID: 0}
 --- !u!58 &5884485786999270669
 CircleCollider2D:
   m_ObjectHideFlags: 0

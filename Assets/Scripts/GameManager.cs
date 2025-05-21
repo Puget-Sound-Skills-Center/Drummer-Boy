@@ -108,11 +108,11 @@ public class GameManager : MonoBehaviour {
                     string rankVal = "F";
                     rankText.color = Color.red;
 
-                if (currentScore >= 25000)
+                if (currentScore >= 20000)
                     {
                         rankVal = "D";
                         rankText.color = Color.blue;
-                      if (currentScore >= 35000)
+                      if (currentScore >= 30000)
                       {
                         rankVal = "C";
                         rankText.color = Color.yellow;

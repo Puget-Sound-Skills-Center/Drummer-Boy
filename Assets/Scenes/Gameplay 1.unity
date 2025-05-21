@@ -180,6 +180,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -187,6 +191,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -281,6 +289,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -288,6 +300,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -383,6 +399,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -390,6 +410,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -506,6 +530,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -513,6 +541,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -597,6 +629,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -604,6 +640,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -657,6 +697,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -664,6 +708,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -806,6 +854,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -813,6 +865,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -919,6 +975,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -926,6 +986,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1005,6 +1069,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1012,6 +1080,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1050,6 +1122,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1057,6 +1133,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1205,6 +1285,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1212,6 +1296,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1307,6 +1395,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1314,6 +1406,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1408,6 +1504,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1415,6 +1515,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1453,6 +1557,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1460,6 +1568,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1560,6 +1672,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1567,6 +1683,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1730,6 +1850,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1737,6 +1861,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1764,6 +1892,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1771,6 +1903,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -1940,6 +2076,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -1947,6 +2087,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2042,6 +2186,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2049,6 +2197,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2159,6 +2311,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2166,6 +2322,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2240,6 +2400,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2247,6 +2411,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2353,6 +2521,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2360,6 +2532,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2466,6 +2642,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2473,6 +2653,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2568,6 +2752,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2575,6 +2763,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2675,6 +2867,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2682,6 +2878,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2772,6 +2972,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2779,6 +2983,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2801,6 +3009,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2808,6 +3020,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -2950,6 +3166,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -2957,6 +3177,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3064,6 +3288,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3071,6 +3299,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3118,6 +3350,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3125,6 +3361,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3268,6 +3508,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3275,6 +3519,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3395,6 +3643,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3402,6 +3654,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3518,6 +3774,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3525,6 +3785,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3547,6 +3811,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3554,6 +3822,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3697,6 +3969,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3704,6 +3980,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3803,6 +4083,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3810,6 +4094,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3848,6 +4136,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -3855,6 +4147,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -3993,6 +4289,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4000,6 +4300,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4120,6 +4424,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4127,6 +4435,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4149,6 +4461,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4156,6 +4472,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4294,6 +4614,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4301,6 +4625,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4411,6 +4739,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4418,6 +4750,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4518,6 +4854,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4525,6 +4865,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4615,6 +4959,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4622,6 +4970,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4696,6 +5048,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4703,6 +5059,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4793,6 +5153,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4800,6 +5164,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -4906,6 +5274,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -4913,6 +5285,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5013,6 +5389,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5020,6 +5400,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5100,6 +5484,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5107,6 +5495,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5197,6 +5589,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5204,6 +5600,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5319,6 +5719,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5326,6 +5730,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5358,6 +5766,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5365,6 +5777,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5523,6 +5939,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5530,6 +5950,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5568,6 +5992,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5575,6 +6003,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5717,6 +6149,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5724,6 +6160,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -5820,6 +6260,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -5827,6 +6271,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6083,6 +6531,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6090,6 +6542,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6180,6 +6636,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6187,6 +6647,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6281,6 +6745,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6288,6 +6756,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6374,6 +6846,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6381,6 +6857,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6649,6 +7129,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6656,6 +7140,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6683,6 +7171,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6690,6 +7182,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6838,6 +7334,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6845,6 +7345,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -6940,6 +7444,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -6947,6 +7455,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7061,6 +7573,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7068,6 +7584,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7106,6 +7626,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7113,6 +7637,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7203,6 +7731,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7210,6 +7742,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7383,6 +7919,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7390,6 +7930,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7551,6 +8095,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7558,6 +8106,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7648,6 +8200,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7655,6 +8211,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7745,6 +8305,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7752,6 +8316,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -7909,6 +8477,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -7916,6 +8488,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8038,6 +8614,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8045,6 +8625,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8170,6 +8754,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8177,6 +8765,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8247,6 +8839,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8254,6 +8850,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8348,6 +8948,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8355,6 +8959,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8393,6 +9001,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8400,6 +9012,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8490,6 +9106,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8497,6 +9117,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8640,6 +9264,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8647,6 +9275,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8757,6 +9389,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8764,6 +9400,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8864,6 +9504,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8871,6 +9515,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -8946,6 +9594,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -8953,6 +9605,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9047,6 +9703,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9054,6 +9714,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9181,6 +9845,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9188,6 +9856,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9240,6 +9912,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9247,6 +9923,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9385,6 +10065,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9392,6 +10076,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9454,6 +10142,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9461,6 +10153,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9599,6 +10295,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9606,6 +10306,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9653,6 +10357,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9660,6 +10368,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9732,6 +10444,10 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8813156787334041832, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9771,6 +10487,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9778,6 +10498,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -9868,6 +10592,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -9875,6 +10603,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10043,6 +10775,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10050,6 +10786,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10129,6 +10869,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10136,6 +10880,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10303,6 +11051,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10310,6 +11062,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10452,6 +11208,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10459,6 +11219,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10554,6 +11318,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10561,6 +11329,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10652,6 +11424,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10659,6 +11435,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10749,6 +11529,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10756,6 +11540,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10876,6 +11664,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10883,6 +11675,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -10957,6 +11753,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -10964,6 +11764,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11185,6 +11989,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11192,6 +12000,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11344,6 +12156,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11351,6 +12167,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11461,6 +12281,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11468,6 +12292,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11538,6 +12366,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11545,6 +12377,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11639,6 +12475,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11646,6 +12486,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11736,6 +12580,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11743,6 +12591,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11781,6 +12633,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11788,6 +12644,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -11926,6 +12786,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -11933,6 +12797,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12042,6 +12910,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12049,6 +12921,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12140,6 +13016,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12147,6 +13027,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12194,6 +13078,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12201,6 +13089,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12296,6 +13188,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12303,6 +13199,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12441,6 +13341,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12448,6 +13352,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12505,6 +13413,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12512,6 +13424,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12659,6 +13575,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12666,6 +13586,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12772,6 +13696,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12779,6 +13707,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12869,6 +13801,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -12876,6 +13812,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -12898,7 +13838,7 @@ GameObject:
   - component: {fileID: 1941718120}
   - component: {fileID: 1941718119}
   m_Layer: 5
-  m_Name: Menu
+  m_Name: Menu Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13154,6 +14094,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13161,6 +14105,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3339098057421870270, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13271,6 +14219,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13278,6 +14230,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13368,6 +14324,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13375,6 +14335,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13449,6 +14413,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13456,6 +14424,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13514,6 +14486,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13521,6 +14497,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13678,6 +14658,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13685,6 +14669,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13728,6 +14716,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13735,6 +14727,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -13846,6 +14842,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -13853,6 +14853,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14016,6 +15020,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -14023,6 +15031,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14230,6 +15242,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -14237,6 +15253,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14311,6 +15331,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -14318,6 +15342,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14361,6 +15389,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -14368,6 +15400,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5012941912997352358, guid: 19c65504ff94f32449b777e8af14194e, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14526,6 +15562,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -14533,6 +15573,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8700884215148583128, guid: e3d7fc8cf4838f14f92d18c15dcb99e1, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14607,6 +15651,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -14614,6 +15662,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4473096498567703854, guid: 77e7ef94a16a7a24ea0e1f5fbc75fe1a, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -14954,7 +16006,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1052011702550842994, guid: 6894e126b3c1cfe48a0f0a5e6d235c61, type: 3}
       propertyPath: KeyToPress
-      value: 273
+      value: 102
       objectReference: {fileID: 0}
     - target: {fileID: 1052011702550842994, guid: 6894e126b3c1cfe48a0f0a5e6d235c61, type: 3}
       propertyPath: defaultImage
@@ -14964,9 +16016,13 @@ PrefabInstance:
       propertyPath: pressedImage
       value: 
       objectReference: {fileID: -678442273326397034, guid: 47d99c8c9de34934298e3ea0d4ade3a8, type: 3}
+    - target: {fileID: 1052011702550842994, guid: 6894e126b3c1cfe48a0f0a5e6d235c61, type: 3}
+      propertyPath: SecondaryKeyToPress
+      value: 273
+      objectReference: {fileID: 0}
     - target: {fileID: 3977958779947862724, guid: 6894e126b3c1cfe48a0f0a5e6d235c61, type: 3}
       propertyPath: m_Name
-      value: Buttons_Red
+      value: Up_Arrow
       objectReference: {fileID: 0}
     - target: {fileID: 3977958779947862724, guid: 6894e126b3c1cfe48a0f0a5e6d235c61, type: 3}
       propertyPath: m_IsActive
@@ -15163,7 +16219,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7300524654105458480, guid: 0565f80cd2fedd24093a09595dbc6441, type: 3}
       propertyPath: m_Name
-      value: Buttons_Blue
+      value: Left_Arrow
       objectReference: {fileID: 0}
     - target: {fileID: 7300524654105458480, guid: 0565f80cd2fedd24093a09595dbc6441, type: 3}
       propertyPath: m_IsActive
@@ -15171,7 +16227,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7326953255670496830, guid: 0565f80cd2fedd24093a09595dbc6441, type: 3}
       propertyPath: KeyToPress
-      value: 276
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7326953255670496830, guid: 0565f80cd2fedd24093a09595dbc6441, type: 3}
       propertyPath: defaultImage
@@ -15181,6 +16237,10 @@ PrefabInstance:
       propertyPath: pressedImage
       value: 
       objectReference: {fileID: -678442273326397034, guid: 47d99c8c9de34934298e3ea0d4ade3a8, type: 3}
+    - target: {fileID: 7326953255670496830, guid: 0565f80cd2fedd24093a09595dbc6441, type: 3}
+      propertyPath: SecondaryKeyToPress
+      value: 276
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15196,7 +16256,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1134793101148917244, guid: 4a39813272c7d6c48a94dbe49d7ad540, type: 3}
       propertyPath: KeyToPress
-      value: 275
+      value: 107
       objectReference: {fileID: 0}
     - target: {fileID: 1134793101148917244, guid: 4a39813272c7d6c48a94dbe49d7ad540, type: 3}
       propertyPath: defaultImage
@@ -15206,6 +16266,10 @@ PrefabInstance:
       propertyPath: pressedImage
       value: 
       objectReference: {fileID: -678442273326397034, guid: 47d99c8c9de34934298e3ea0d4ade3a8, type: 3}
+    - target: {fileID: 1134793101148917244, guid: 4a39813272c7d6c48a94dbe49d7ad540, type: 3}
+      propertyPath: SecondaryKeyToPress
+      value: 275
+      objectReference: {fileID: 0}
     - target: {fileID: 2061170084639572163, guid: 4a39813272c7d6c48a94dbe49d7ad540, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
@@ -15280,7 +16344,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4763029828753299035, guid: 4a39813272c7d6c48a94dbe49d7ad540, type: 3}
       propertyPath: m_Name
-      value: Buttons_Green
+      value: Right_Arrow
       objectReference: {fileID: 0}
     - target: {fileID: 4763029828753299035, guid: 4a39813272c7d6c48a94dbe49d7ad540, type: 3}
       propertyPath: m_IsActive
@@ -15329,7 +16393,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1843189361572106870, guid: 5e95e23961ce37a4a98106d7124b8115, type: 3}
       propertyPath: KeyToPress
-      value: 274
+      value: 106
       objectReference: {fileID: 0}
     - target: {fileID: 1843189361572106870, guid: 5e95e23961ce37a4a98106d7124b8115, type: 3}
       propertyPath: defaultImage
@@ -15339,6 +16403,10 @@ PrefabInstance:
       propertyPath: pressedImage
       value: 
       objectReference: {fileID: -678442273326397034, guid: 47d99c8c9de34934298e3ea0d4ade3a8, type: 3}
+    - target: {fileID: 1843189361572106870, guid: 5e95e23961ce37a4a98106d7124b8115, type: 3}
+      propertyPath: SecondaryKeyToPress
+      value: 274
+      objectReference: {fileID: 0}
     - target: {fileID: 2915335858434534102, guid: 5e95e23961ce37a4a98106d7124b8115, type: 3}
       propertyPath: m_Size.x
       value: 2.03
@@ -15357,7 +16425,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2960317930405648420, guid: 5e95e23961ce37a4a98106d7124b8115, type: 3}
       propertyPath: m_Name
-      value: Buttons_Yellow
+      value: Down_Arrow
       objectReference: {fileID: 0}
     - target: {fileID: 2960317930405648420, guid: 5e95e23961ce37a4a98106d7124b8115, type: 3}
       propertyPath: m_IsActive
@@ -15489,6 +16557,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 2485340285185139238, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: KeyToPress
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 2485340285185139238, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -15497,14 +16569,26 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
     - target: {fileID: 2485340285185139238, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2485340285185139238, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: perfectEffect
       value: 
       objectReference: {fileID: 3957900027675735934, guid: cb4dd916d04079e4a9c7dd60d9226230, type: 3}
+    - target: {fileID: 2678306925433378560, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: beatTempo
+      value: 126.4
+      objectReference: {fileID: 0}
     - target: {fileID: 4520531263508910714, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: hitEffect
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4520531263508910714, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: KeyToPress
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520531263508910714, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -15512,6 +16596,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4520531263508910714, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4520531263508910714, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -15537,6 +16625,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 4993936196887300590, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: KeyToPress
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 4993936196887300590, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -15544,6 +16636,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 4993936196887300590, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4993936196887300590, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: perfectEffect
       value: 
@@ -15673,6 +16769,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
     - target: {fileID: 9130404806337255200, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: KeyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 9130404806337255200, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: goodEffect
       value: 
       objectReference: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
@@ -15680,6 +16780,10 @@ PrefabInstance:
       propertyPath: missEffect
       value: 
       objectReference: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
+    - target: {fileID: 9130404806337255200, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
+      propertyPath: noteHolder
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9130404806337255200, guid: 97a2c24005e991041899e1e7dcccdab6, type: 3}
       propertyPath: perfectEffect
       value: 

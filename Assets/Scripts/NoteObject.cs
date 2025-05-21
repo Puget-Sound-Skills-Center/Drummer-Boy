@@ -6,6 +6,7 @@ public class NoteObject : MonoBehaviour
     public bool canBePressed;
 
     public KeyCode KeyToPress;
+    public KeyCode SecondaryKeyToPress;
 
     public GameObject hitEffect, goodEffect, perfectEffect, missEffect, noteHolder;
 
@@ -18,7 +19,7 @@ public class NoteObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyToPress))
+        if (Input.GetKeyDown(KeyToPress) || Input.GetKeyDown(SecondaryKeyToPress))
         {
             if (canBePressed)
             {
