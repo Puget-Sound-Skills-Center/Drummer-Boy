@@ -14020,6 +14020,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8396826497547354787, guid: edcbb4a4a77795047ade453fe753acd4, type: 2}
     - target: {fileID: 5815732886181902356, guid: 14fe8d1d396c02c42a197d703aad3406, type: 3}
+      propertyPath: miss_note_sfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 8cbfa15c97038104aa89b340ba20800d, type: 3}
+    - target: {fileID: 5815732886181902356, guid: 14fe8d1d396c02c42a197d703aad3406, type: 3}
       propertyPath: mainMenu_Music
       value: 
       objectReference: {fileID: 0}
@@ -17243,6 +17247,10 @@ PrefabInstance:
       propertyPath: perfectsText
       value: 
       objectReference: {fileID: 252260188}
+    - target: {fileID: 1492006242096835803, guid: 6bc5191101d8c564e816d76eb3a56817, type: 3}
+      propertyPath: miss_note_sfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 8cbfa15c97038104aa89b340ba20800d, type: 3}
     - target: {fileID: 1492006242096835803, guid: 6bc5191101d8c564e816d76eb3a56817, type: 3}
       propertyPath: resultsScreen
       value: 

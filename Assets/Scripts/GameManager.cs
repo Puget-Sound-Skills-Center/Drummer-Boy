@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour {
     public AudioClip Win_Effect;
     public AudioClip Tutorial_Extended;
     public AudioClip button_click;
+    public AudioClip miss_note_sfx;
 
     private static AudioManager audioInstance;
 
@@ -192,6 +193,8 @@ public class GameManager : MonoBehaviour {
     public void NoteMissed()
     {
             Debug.Log("Missed Note");
+
+       // SFXSource.PlayOneShot(miss_note_sfx);
 
             currentMultiplier = 1;
             multiplierTracker = 0;
