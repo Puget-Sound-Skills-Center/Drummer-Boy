@@ -55,7 +55,7 @@ public class GameManager : MonoBehaviour {
 
     private void Awake()
     {
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+     //   audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
        
     }
 
@@ -128,6 +128,11 @@ public class GameManager : MonoBehaviour {
                                 {
                                     rankVal = "S";
                                     rankText.color = Color.magenta;
+                                    if (currentScore >= 88800)
+                                    {
+                                        rankVal = "Nerd";
+                                        rankText.color = Color.black;
+                                    }
                                 }
                             }
                         }

@@ -45,7 +45,13 @@ public class NoteObject : MonoBehaviour
                     GameManager.instance.PerfectHit();
                     Instantiate(perfectEffect, transform.position, perfectEffect.transform.rotation);
                 }
-               
+                else if (Mathf.Abs(transform.position.y) > 0.40)
+                {
+                    canBePressed = false;
+
+                    GameManager.instance.NoteMissed();
+                    Instantiate(missEffect, transform.position, missEffect.transform.rotation);
+                }
             }
         }
     }
