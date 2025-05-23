@@ -14305,6 +14305,7 @@ GameObject:
   - component: {fileID: 1941718121}
   - component: {fileID: 1941718120}
   - component: {fileID: 1941718119}
+  - component: {fileID: 1941718122}
   m_Layer: 5
   m_Name: Menu Button
   m_TagString: Untagged
@@ -14426,6 +14427,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1941718117}
   m_CullTransparentMesh: 1
+--- !u!114 &1941718122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1941718117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b443a34934afc340a1442bfab93b808, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseMenu: {fileID: 0}
+  KeyToPress: 114
 --- !u!4 &1942601023 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 410413553103630166, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
@@ -16307,7 +16322,7 @@ PrefabInstance:
       objectReference: {fileID: -4488558486788426923, guid: d71712e0de161214a975dd4f72cf0330, type: 3}
     - target: {fileID: 4622934569243061476, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: KeyToPress
-      value: 9
+      value: 114
       objectReference: {fileID: 0}
     - target: {fileID: 5092630017461099788, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_Pivot.x
