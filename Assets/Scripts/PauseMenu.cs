@@ -51,9 +51,9 @@ public class PauseMenu : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyUp("space"))
+        if (Input.GetKeyUp(KeyToPress))
         {
-            Home();
+            Restart();
         }
     }
 }
