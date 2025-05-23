@@ -78,15 +78,15 @@ SpriteRenderer:
   m_SortingLayerID: -990579125
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 60bfd072918779345aef76bf7e212b42, type: 3}
+  m_Sprite: {fileID: -4346244404228752641, guid: 60bfd072918779345aef76bf7e212b42, type: 3}
   m_Color: {r: 0.4764151, g: 0.60371816, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.03, y: 1.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &5012941912997352358
@@ -104,10 +104,10 @@ MonoBehaviour:
   canBePressed: 0
   KeyToPress: 100
   SecondaryKeyToPress: 276
-  hitEffect: {fileID: 0}
-  goodEffect: {fileID: 0}
-  perfectEffect: {fileID: 0}
-  missEffect: {fileID: 0}
+  hitEffect: {fileID: 4419003900233418417, guid: b677ba7e02caa8f46a167016ee59d905, type: 3}
+  goodEffect: {fileID: 3664303949741759535, guid: b398edd017de11c44aa1c4169ca5f6fe, type: 3}
+  perfectEffect: {fileID: 3957900027675735934, guid: cb4dd916d04079e4a9c7dd60d9226230, type: 3}
+  missEffect: {fileID: 1781457663373111847, guid: f1d7d03bdb643f84581044b71b37af7f, type: 3}
   noteHolder: {fileID: 0}
 --- !u!58 &4423879664131737929
 CircleCollider2D:

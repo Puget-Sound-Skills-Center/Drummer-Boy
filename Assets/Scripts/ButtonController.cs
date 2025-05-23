@@ -21,25 +21,13 @@ public class ButtonController : MonoBehaviour
         if (Input.GetKeyDown(KeyToPress) || Input.GetKeyDown(SecondaryKeyToPress))
         {
             theSR.sprite = pressedImage;
-           // theSR.sprite = defaultImage;
-        } 
+          
+        }
 
         if (Input.GetKeyUp(KeyToPress) || Input.GetKeyDown(SecondaryKeyToPress))
         {
             theSR.sprite = defaultImage;
-           // theSR.sprite = pressedImage;
-        }
-
-        if (/*Input.GetKeyDown(KeyToPress) ||*/ Input.GetKeyDown(SecondaryKeyToPress))
-        {
-            theSR.sprite = pressedImage;
-            // theSR.sprite = defaultImage;
-        }
-
-        if (/*Input.GetKeyUp(KeyToPress) || */Input.GetKeyDown(SecondaryKeyToPress))
-        {
-            theSR.sprite = defaultImage;
-            // theSR.sprite = pressedImage;
+           
         }
     }
 }

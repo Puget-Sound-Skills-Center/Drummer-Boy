@@ -25,33 +25,28 @@ public class NoteObject : MonoBehaviour
             {
                 gameObject.SetActive(false);
 
-                // GameManager.instance.NoteHit();
+                #region Hit Effect Code
+                  if (Mathf.Abs(transform.position.y) > 0.25)
+                  {
+                      Debug.Log("Hit");
+                      GameManager.instance.NormalHit();
+                      Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
+                  }
+                  else if (Mathf.Abs(transform.position.y) > 0.05f)
+                  {
+                      Debug.Log("Good Hit");
+                      GameManager.instance.GoodHit();
+                      Instantiate(goodEffect, transform.position, goodEffect.transform.rotation);
+                  }
+                  else if (Mathf.Abs(transform.position.y) > 0)
+                  {
+                      Debug.Log("Perfect Hit");
+                      GameManager.instance.PerfectHit();
+                      Instantiate(perfectEffect, transform.position, perfectEffect.transform.rotation);
+                  } 
+                #endregion
 
-                if (Mathf.Abs(transform.position.y) > 0.25)
-                {
-                    Debug.Log("Hit");
-                    GameManager.instance.NormalHit();
-                    Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
-                }
-                else if (Mathf.Abs(transform.position.y) > 0.05f)
-                {
-                    Debug.Log("Good Hit");
-                    GameManager.instance.GoodHit();
-                    Instantiate(goodEffect, transform.position, goodEffect.transform.rotation);
-                }
-                else if (Mathf.Abs(transform.position.y) > 0)
-                {
-                    Debug.Log("Perfect Hit");
-                    GameManager.instance.PerfectHit();
-                    Instantiate(perfectEffect, transform.position, perfectEffect.transform.rotation);
-                }
-                else if (Mathf.Abs(transform.position.y) > 0.40)
-                {
-                    canBePressed = false;
-
-                    GameManager.instance.NoteMissed();
-                    Instantiate(missEffect, transform.position, missEffect.transform.rotation);
-                }
+               
             }
         }
     }
