@@ -2583,6 +2583,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051167117}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!114 &1051167122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2597,6 +2598,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 0}
   KeyToPress: 114
+=======
+>>>>>>> parent of 563e849 (level working)
 --- !u!1001 &1063266446
 PrefabInstance:
   m_ObjectHideFlags: 0
