@@ -58,10 +58,8 @@ public class AudioManager : MonoBehaviour
             case 1:
                 musicSource.Stop();
                 break;
-            case 3:
+            case 2:
                 musicSource.Stop();
-                musicSource.clip = Win_Effect;
-                musicSource.Play();
                 break;
         }
     }
