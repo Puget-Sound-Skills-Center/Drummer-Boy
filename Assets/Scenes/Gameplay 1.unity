@@ -14441,6 +14441,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 0}
   KeyToPress: 114
+  KeyToPause: 112
 --- !u!4 &1942601023 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 410413553103630166, guid: 5edc284c62b6dd041957486362e09e5b, type: 3}
@@ -16495,6 +16496,10 @@ PrefabInstance:
     - target: {fileID: 6764673036178318594, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 6908207855902152086, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7460129636748389858, guid: b92ef0a3b4ff6fc4bad3c64d445ad63c, type: 3}
       propertyPath: m_IsActive

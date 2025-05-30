@@ -1,3 +1,4 @@
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,9 +8,12 @@ public class PauseMenu : MonoBehaviour
 
     public KeyCode KeyToPress;
 
+    public KeyCode KeyToPause;
+
     public void Pause()
     {
         pauseMenu.SetActive(true);
+        
         Time.timeScale = 0;
     
      
@@ -54,6 +58,10 @@ public class PauseMenu : MonoBehaviour
         if (Input.GetKeyUp(KeyToPress))
         {
             Restart();
+        }
+        if (Input.GetKeyUp(KeyToPause))
+        {
+            Pause();
         }
     }
 }
