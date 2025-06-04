@@ -85,7 +85,7 @@ public class GameManager : MonoBehaviour {
                 theMusic.Play();
             }
         }
-        else
+      /*  else
         {
          
             if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
@@ -144,7 +144,7 @@ public class GameManager : MonoBehaviour {
                  finalScoreText.text = currentScore.ToString();
             }
          
-        }  
+        }  */
     }
 
 
