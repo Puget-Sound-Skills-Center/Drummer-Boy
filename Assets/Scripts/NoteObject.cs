@@ -7,6 +7,7 @@ public class NoteObject : MonoBehaviour
 
     public KeyCode KeyToPress;
     public KeyCode SecondaryKeyToPress;
+    
 
     public GameObject hitEffect, goodEffect, perfectEffect, missEffect, noteHolder;
 
@@ -25,7 +26,7 @@ public class NoteObject : MonoBehaviour
             {
                 gameObject.SetActive(false);
 
-                #region Hit Effect Code
+                
                   if (Mathf.Abs(transform.position.y) > 0.25)
                    {
                        Debug.Log("Hit");
@@ -45,11 +46,11 @@ public class NoteObject : MonoBehaviour
                        Debug.Log("Perfect Hit");
                        GameManager.instance.PerfectHit();
                        Instantiate(perfectEffect, transform.position, perfectEffect.transform.rotation);
-                   } 
-                #endregion
+                   }
+            
 
-               
-                
+
+
             }
         }
     }

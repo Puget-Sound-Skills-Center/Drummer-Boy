@@ -27,6 +27,8 @@ public class GameManager : MonoBehaviour {
 
     public static GameManager instance;
 
+    
+
     public int currentScore;
     public int scorePerNote = 100;
     public int scorePerGoodNote = 125;
@@ -85,66 +87,68 @@ public class GameManager : MonoBehaviour {
                 theMusic.Play();
             }
         }
-      /*  else
-        {
-         
-            if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
-            {
+
+        
+        /*  else
+          {
+
+              if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
+              {
 
 
-                    //  SceneManager.LoadSceneAsync("Win Screen");
-                    resultsScreen.SetActive(true);
+                      //  SceneManager.LoadSceneAsync("Win Screen");
+                      resultsScreen.SetActive(true);
 
 
-                    normalsText.text = "" + normalHits;
-                    goodsText.text = goodHits.ToString();
-                    perfectsText.text = perfectHits.ToString(); ;
-                    missesText.text = missedHits.ToString(); ;
+                      normalsText.text = "" + normalHits;
+                      goodsText.text = goodHits.ToString();
+                      perfectsText.text = perfectHits.ToString(); ;
+                      missesText.text = missedHits.ToString(); ;
 
-                    float totalHit = normalHits + goodHits + perfectHits;
-                    float percentHit = (totalHit / totalNotes) * 100f;
+                      float totalHit = normalHits + goodHits + perfectHits;
+                      float percentHit = (totalHit / totalNotes) * 100f;
 
-                    percentHitText.text = percentHit.ToString("F1") + "%";
+                      percentHitText.text = percentHit.ToString("F1") + "%";
 
-                    string rankVal = "F";
-                    rankText.color = Color.red;
+                      string rankVal = "F";
+                      rankText.color = Color.red;
 
-                if (currentScore >= 20000)
-                    {
-                        rankVal = "D";
-                        rankText.color = Color.blue;
-                      if (currentScore >= 30000)
+                  if (currentScore >= 20000)
                       {
-                        rankVal = "C";
-                        rankText.color = Color.yellow;
-                        if (currentScore >= 45000)
+                          rankVal = "D";
+                          rankText.color = Color.blue;
+                        if (currentScore >= 30000)
                         {
-                            rankVal = "B";
-                            rankText.color = Color.cyan;
-                            if (currentScore >= 60000)
-                            {
-                                rankVal = "A";
-                                rankText.color = Color.green;
-                                if (currentScore >= 70000)
-                                {
-                                    rankVal = "S";
-                                    rankText.color = Color.magenta;
-                                    if (currentScore >= 88800)
-                                    {
-                                        rankVal = "Nerd";
-                                        rankText.color = Color.black;
-                                    }
-                                }
-                            }
+                          rankVal = "C";
+                          rankText.color = Color.yellow;
+                          if (currentScore >= 45000)
+                          {
+                              rankVal = "B";
+                              rankText.color = Color.cyan;
+                              if (currentScore >= 60000)
+                              {
+                                  rankVal = "A";
+                                  rankText.color = Color.green;
+                                  if (currentScore >= 70000)
+                                  {
+                                      rankVal = "S";
+                                      rankText.color = Color.magenta;
+                                      if (currentScore >= 88800)
+                                      {
+                                          rankVal = "Nerd";
+                                          rankText.color = Color.black;
+                                      }
+                                  }
+                              }
+                          }
                         }
-                      }
-                 }
-                 rankText.text = rankVal;
+                   }
+                   rankText.text = rankVal;
 
-                 finalScoreText.text = currentScore.ToString();
-            }
-         
-        }  */
+                   finalScoreText.text = currentScore.ToString();
+              }
+
+          }  */
     }
 
 
