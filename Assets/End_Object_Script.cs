@@ -21,6 +21,7 @@ public class End_Object_Script : MonoBehaviour
     {
         Debug.Log("END IS NOW!!!!!");
 
+        GameManager.instance.EndLevel();
 
     }
 }
