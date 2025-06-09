@@ -57,9 +57,11 @@ public class AudioManager : MonoBehaviour
                 break;
             case 1:
                 musicSource.Stop();
+                musicSource.clip = button_click;
                 break;
             case 2:
                 musicSource.Stop();
+                musicSource.clip = button_click;
                 break;
         }
     }
